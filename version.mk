@@ -1,0 +1,6 @@
+ROLLNAME	= ansible
+VERSION		= 2.6.1
+RELEASE		= 0
+COLOR		= blue
+
+REDHAT.ROOT	= $(CURDIR)
