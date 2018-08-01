@@ -13,6 +13,6 @@
 	
 	</copyright>
 
-	<package>rocks-ansible</package>
+	<ansible playbook="ansible-core.yml"/>
 
 </kickstart>

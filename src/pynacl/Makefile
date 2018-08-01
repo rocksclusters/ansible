@@ -62,8 +62,6 @@ REDHAT.ROOT = $(CURDIR)/../../
 include Rules.mk
 PYTHON = python
 
-
-
 build:
 	tar -xvzf $(TARNAME)-$(VERSION).$(TARBALL_POSTFIX)
 	(							\

@@ -1,0 +1,10 @@
+---
+- hosts: localhost
+  tasks:
+  - name:  Rocks-ansible on system
+    become: true
+    yum:
+      name: rocks-ansible
+      state: present
+
+
